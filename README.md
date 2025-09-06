@@ -1,7 +1,8 @@
 # 🔧 LangChain Output Parsers: From Text to Structured Data
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python) ![LangChain](https://img.shields.io/badge/LangChain-0086CB?style=for-the-badge&logo=langchain)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD61E?style=for-the-badge&logo=huggingface) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic)
+ ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic)
+ ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD61E?style=for-the-badge&logo=huggingface)
 
 
 
